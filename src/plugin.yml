@@ -1,0 +1,8 @@
+name: DiamondsAreCool
+main: me.intriguing.DiamondsAreCool
+version: 1.0
+author: Intriguing
+commands:
+  getdiamond:
+    description: Get a diamond
+    usage: /getdiamond
